@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Sofija!
 
-I'm a fourth year Software Engineering student at the University of Banja Luka. I am passionate about making technology do things. 😊
+I'm a fourth year Software Engineering student at the University of Banja Luka. I am passionate about making technology do things. 😊 
 
 ####Currently learning: 
-* Godot
+* Godot 
 
 ####Interested in: 
-* Front-end development
-* Video game development
+* Front-end development 
+* Video game development 
 
-####Connect with me:
-* 📧 cmebicasooofija@gmail.com
+####Connect with me: 
+* 📧 cmebicasooofija@gmail.com 
 
 
 <h5 align="left">Languages and Tools:</h5>
