@@ -2,14 +2,14 @@
 
 I'm a fourth year Software Engineering student at the University of Banja Luka. I am passionate about making technology do things. 😊 
 
-####Currently learning: 
+#### Currently learning: 
 * Godot 
 
-####Interested in: 
+#### Interested in: 
 * Front-end development 
 * Video game development 
 
-####Connect with me: 
+#### Connect with me: 
 * 📧 cmebicasooofija@gmail.com 
 
 
