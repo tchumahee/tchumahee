@@ -19,9 +19,9 @@ I'm a fourth year Software Engineering student at the University of Banja Luka. 
 
 ## Some stats: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchumahee)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchumahee)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tchumahee)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tchumahee)  
 
 <br/>
 Thank you for stopping by! 😁
