@@ -3,11 +3,12 @@
 I'm a fourth year Software Engineering student at the University of Banja Luka. I am passionate about making technology do things. 😊 
 
 ## Currently learning: 
-* Godot 
+* Unreal Engine 5
 
 ## Interested in: 
 * Front-end development 
-* Video game development 
+* Video game development
+* 3D graphics 
 
 ## Connect with me: 
 * 📧 cmebicasooofija@gmail.com 
