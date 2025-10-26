@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Sofija!
 
-I'm a fourth year Software Engineering student at the University of Banja Luka. I am passionate about making technology do things. 😊 
+I'm a software engineering graduate with a passion for creation. At the moment I am learning about workflows for creation of 3D graphics. 😊 
 
 ## Currently learning: 
 * Unreal Engine 5
+* Blender
 
 ## Interested in: 
 * Front-end development 
