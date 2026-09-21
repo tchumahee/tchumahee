@@ -12,10 +12,10 @@ I'm a software engineering graduate with a passion for creation. At the moment I
 * 3D graphics 
 
 ## Connect with me: 
-* 📧 cmebicasooofija@gmail.com 
+* 📧 sofija.v.rodic@gmail.com 
 
 ## Some stats: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchumahee&layout=donut&theme=omni&exclude_repo=Covertype-NN,tchumahee.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tchumahee&layout=donut&theme=omni&exclude_repo=Covertype-NN,tchumahee.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 Thank you for stopping by! 😁
